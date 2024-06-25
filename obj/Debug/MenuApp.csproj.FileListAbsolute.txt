@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\bin\Debug\MenuApp.exe.config
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\bin\Debug\MenuApp.exe
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\bin\Debug\MenuApp.pdb
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.frmLogin.resources
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.Properties.Resources.resources
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.exe
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.pdb
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.frmLayout.resources
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.frmBlack.resources
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.frmBlue.resources
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.frmGreen.resources
+C:\Users\DELL\source\repos\SmallSchool\MenuApp\obj\Debug\MenuApp.frmWhite.resources
